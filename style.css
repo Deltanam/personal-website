@@ -15,3 +15,7 @@ body {
 .segoe {
     font-family: 'Segoe UI' !important;
 }
+
+.img-max {
+    max-width: 90%;
+}
