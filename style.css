@@ -1,0 +1,17 @@
+body {
+    background: #03070e !important;
+}
+
+.light {
+    color: #d3d3d3 !important;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.segoe {
+    font-family: 'Segoe UI' !important;
+}
